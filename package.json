@@ -1,0 +1,17 @@
+{
+  "name": "buffpointfb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Whoant",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "uuid": "^3.3.3"
+  }
+}
